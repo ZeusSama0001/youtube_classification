@@ -34,8 +34,7 @@ pip install google-api-python-client pandas scikit-learn matplotlib seaborn pyth
         ```bash
         python3 -m venv yt_scrape
         source yt_scrape/bin/activate # On Windows, use yt_scrape\Scripts\activate
-        ```
-
+        
 ## Running the Jupyter Notebooks
 
 1. Open and run `youtube_scraper.ipynb` to scrape YouTube data and save it to `youtube_data.csv`.
