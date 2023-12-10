@@ -1,0 +1,18 @@
+# Virtual environment
+yt_scrape/
+
+# Python file folder
+python_file/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables file
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Miscellaneous
+.DS_Store
