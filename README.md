@@ -26,15 +26,15 @@ pip install google-api-python-client pandas scikit-learn matplotlib seaborn pyth
     
     ```bash
     API_KEY=your_api_key_here
-   Ensure there are no spaces around the equal sign.
    ```
+- Ensure there are no spaces around the equal sign.
 
 3. Create and activate the virtual environment. If your virtual environment is named yt_scrape, use the following commands:
 
-        ```bash
-        python -m venv yt_scrape
-        source yt_scrape/bin/activate
-        ```
+    ```bash
+    python -m venv yt_scrape
+    source yt_scrape/bin/activate
+   ```
 - On Windows, use yt_scrape\Scripts\activate
         
 ## Running the Jupyter Notebooks
