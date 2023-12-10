@@ -30,10 +30,12 @@ pip install google-api-python-client pandas scikit-learn matplotlib seaborn pyth
    ```
 
 3. Create and activate the virtual environment. If your virtual environment is named yt_scrape, use the following commands:
-    
+
         ```bash
-        python3 -m venv yt_scrape
-        source yt_scrape/bin/activate # On Windows, use yt_scrape\Scripts\activate
+        python -m venv yt_scrape
+        source yt_scrape/bin/activate
+        ```
+- On Windows, use yt_scrape\Scripts\activate
         
 ## Running the Jupyter Notebooks
 
